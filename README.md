@@ -1,4 +1,11 @@
-# Setting file  
+# The First Component Login
+
+- The LogIn component
+- Build index.js, index.html
+- Build the LoginIn component in index
+- React Developer tool
+
+
 
 ## Getting Started with Create React App
 
